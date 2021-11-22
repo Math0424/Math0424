@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm just a programmer who enjoys coding
+
+If you want to reach out to me you can contact me here
+or preferably through Discord. 
+
+Discord: Math#0424
+
 <!--
 **Math0424/Math0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
